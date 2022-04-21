@@ -1,6 +1,4 @@
-# Unique-Fact
-
-<h1 align="center">JS Console</h1>
+<h1 align="center">Unique Fact CLI</h1>
 
 ## Tentang Aplikasi
 
