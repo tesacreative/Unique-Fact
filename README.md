@@ -14,7 +14,7 @@
 
 - Example
 
-  ![fakta unik cli](/assets/images/tux.png)
+  ![fakta unik cli](fakta-unik.png)
 
 ## Credits
 
